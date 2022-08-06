@@ -1,0 +1,24 @@
+{
+  "name": "ch10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.4",
+    "@types/jquery": "^3.5.14",
+    "@types/jsdom": "^16.2.14",
+    "@types/node": "^18.0.0",
+    "jest": "^28.1.2",
+    "jsdom": "^20.0.0",
+    "ts-jest": "^28.0.5",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}

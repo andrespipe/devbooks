@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "reflect-metadata": "^0.1.13"
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.5.5",
+    "underscore": "^1.13.4"
+  },
+  "devDependencies": {
+    "@types/underscore": "^1.11.4"
   }
 }
